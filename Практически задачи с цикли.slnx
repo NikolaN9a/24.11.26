@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../2 задача/2 задача.csproj" />
+  <Project Path="../задача 3/задача 3.csproj" />
+  <Project Path="../задача 4/задача 4.csproj" />
+  <Project Path="../Задача 5/Задача 5.csproj" />
+  <Project Path="Практически задачи с цикли.csproj" />
+</Solution>
